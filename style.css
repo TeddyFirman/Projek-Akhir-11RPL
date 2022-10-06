@@ -1,0 +1,26 @@
+*{
+    font-family: "Montserrat";
+}
+h1{
+    position: relative;
+    text-align: center; 
+    margin-top: 100px;
+    border: 5px solid black;
+    width: 50%;
+    padding: 10px;
+    margin-left: 310px;
+}
+tr{
+    padding: 5px;
+    margin: 10px;
+}
+table{
+    margin: auto;
+    margin-top: 70px;
+}
+td{
+    padding: 5px;
+}
+.head{
+    font-weight: bold;
+}
